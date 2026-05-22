@@ -1,6 +1,6 @@
-## SmartCart_Clustering
+# SmartCart_Clustering
 
-# SmartCart Customer Segmentation Analysis
+## SmartCart Customer Segmentation Analysis
 
 This project performs customer personality analysis and segmentation for 'SmartCart' retail data to help the business better understand its customers and optimize marketing strategies.
 
